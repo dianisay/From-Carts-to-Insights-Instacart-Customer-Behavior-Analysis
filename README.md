@@ -7,13 +7,14 @@ The objective is to identify shopping patterns, such as when users place orders,
 ---
 
 ## 📂 Dataset
+**Cloud Services:** AWS S3 (data hosting and retrieval)
 The project uses five CSV files (subset of Instacart’s public dataset):
 
-1. **instacart_orders.csv** – details of customer orders  
-2. **products.csv** – product information  
-3. **order_products.csv** – items included in each order  
-4. **aisles.csv** – grocery aisle categories  
-5. **departments.csv** – department categories  
+1. **instacart_orders.csv** – details of customer orders - [Download](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/instacart_orders.csv)
+3. **products.csv** – product information - [Download](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/products.csv)
+4. **order_products.csv** – items included in each order - [Download](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/order_products.csv)
+5. **aisles.csv** – grocery aisle categories - [Download](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/aisles.csv)
+6. **departments.csv** – department categories - [Download](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/departments.csv)
 
 Each dataset required preprocessing to handle **missing values, duplicates, and formatting issues**.
 
