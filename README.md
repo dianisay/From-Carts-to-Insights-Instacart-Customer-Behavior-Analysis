@@ -8,6 +8,7 @@ The objective is to identify shopping patterns, such as when users place orders,
 
 ## 📂 Dataset
 **Cloud Services:** AWS S3 (data hosting and retrieval).
+
 The project uses five CSV files (subset of Instacart’s public dataset):
 
 1. **instacart_orders.csv** – details of customer orders - [Download](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Data_Refactored_2_sprint/datasets/instacart_orders.csv)
